@@ -1,0 +1,10 @@
+Vector SUSAN corner keypoint features:
+----------------------------------------
+corner.cpp - see rhrobotics_ml_handout
+
+On Applied ML -
+------------------
+
+Presentation to robotics startup on vector image processing keypoint feature extraction, my vectorized SUSAN corner detector.  Also presents Deep Learning clustering and learned representations.
+
+see powerpoint RighthandRobotics.pptx
